@@ -1,7 +1,8 @@
 # NASA Space Apps Challenge 2024 [Noida]
 
 #### Team Name - Cosmic Hactivists
-#### Problem Statement - 
+#### Problem Statement - **Link**: [Seismic Detection Across the Solar System](https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/seismic-detection-across-the-solar-system/)
+
 #### Team Leader Email - aagamcshah172005@gmail.com
 
 # Seismic Signal Analysis System
